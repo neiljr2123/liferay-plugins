@@ -45,3 +45,4 @@
 /tools/*/*/*/lib
 /tools/node*
 _sass_cache_*.css
+/build.properties
